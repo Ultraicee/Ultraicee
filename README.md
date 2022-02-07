@@ -1,4 +1,4 @@
 - Hi, I’m @Ultraicee, a graduate student major in Electric information.
 - I’m interested in deep learnning of cv field and cpp programming, and drive in the world of the forza horizon4 sometimes.
 - I’m currently learning to code more effectively.
-- You can connect me with my E-mail address 202022060738@std.uestc.edu.cn 
+- You can connect me with my E-mail address yaoguan@std.uestc.edu.cn 
